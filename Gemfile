@@ -7,5 +7,5 @@ source "http://rubygems.org"
 ].each do |rails_gem|
   gem rails_gem, '~> 6.0.0'
 end
-gem 'sqlite3', "~> 1.4"
+# gem 'sqlite3', "~> 1.4"
 gemspec
